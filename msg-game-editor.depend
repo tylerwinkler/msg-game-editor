@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1525899168 source:c:\users\tyler\documents\repos\msg-game-editor\src\main.cpp
+	<fstream>
+	<map>
+	<sstream>
+	"SFML/Graphics/RenderWindow.hpp"
+	"SFML/Window/Event.hpp"
+	"imgui.h"
+	"imgui-sfml.h"
+	"WindowEnum.hpp"
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\vector2.inl
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\rect.inl
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\primitivetype.hpp
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1506471375 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Vector2.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\contextsettings.hpp
+	<SFML/Config.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\cursor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1506471375 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1506471375 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1506471375 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\windowstyle.hpp
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\utf.inl
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\string.inl
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1506471375 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1506471375 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1506471375 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\vector3.inl
+
+1525897228 c:\users\tyler\documents\repos\msg-game-editor\include\windowenum.hpp
+
+1521151034 source:c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui-sfml\imgui-sfml.cpp
+	"imgui-SFML.h"
+	<imgui.h>
+	<SFML/OpenGL.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Window.hpp>
+	<cmath>
+	<cstddef>
+	<cassert>
+	<SFML/Window/Touch.hpp>
+	<jni.h>
+	<android/native_activity.h>
+	<SFML/System/NativeActivity.hpp>
+
+1521141191 c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui-sfml\imgui-sfml.h
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Time.hpp>
+
+1521140910 c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui\imgui.h
+	"imconfig.h"
+	<float.h>
+	<stdarg.h>
+	<stddef.h>
+	<string.h>
+	<assert.h>
+	"imgui_user.h"
+
+1521141267 c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui\imconfig.h
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2ext.h>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1506471375 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1506471374 c:\users\tyler\documents\repos\msg-game-editor\extlib\sfml\include\sfml\system\nativeactivity.hpp
+	<SFML/System/Export.hpp>
+
+1521140910 source:c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui\imgui.cpp
+	"imgui.h"
+	"imgui_internal.h"
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<stdint.h>
+	"stb_textedit.h"
+	<Windows.h>
+	<windows.h>
+	<imm.h>
+	"imgui_user.inl"
+
+1521140910 c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui\imgui_internal.h
+	<stdio.h>
+	<math.h>
+	<limits.h>
+	"stb_textedit.h"
+
+1521140910 c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui\stb_textedit.h
+	<string.h>
+
+1521140910 source:c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui\imgui_draw.cpp
+	"imgui.h"
+	"imgui_internal.h"
+	<stdio.h>
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+	"stb_rect_pack.h"
+	"stb_truetype.h"
+
+1521140910 c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui\stb_rect_pack.h
+	<stdlib.h>
+	<assert.h>
+
+1521140910 c:\users\tyler\documents\repos\msg-game-editor\extlib\imgui\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
